@@ -15,12 +15,7 @@ Other mod blocks I'm going to try to add support for are:
 
 Usage in mods as an API
 =========
-This API can be redistributed in order to work without the mod installed and so that you don't have to have your own implementation of connected textues. The redistributable version only includes support for normal blocks, but when the mod is installed it'll add support for all the other types.  
-Including the redistributable version in your mod is as easy as copying a package called *com.amadornes.connected.api* over to your project's source, but remember to keep the package name the same or there'll be API collisions.  
-  
-Then you can use all the methods and interfaces that are provided in there to make your blocks have connected textures. A more detailed tutorial on how to use it will be added as soon as the API is finished.  
-  
-Feel free to implement (and include) it in your mods and if you do so, please tell me! I'd love to know what mods are using the API :)
+DO NOT USE IT FOR NOW.
 
 License
 =========
